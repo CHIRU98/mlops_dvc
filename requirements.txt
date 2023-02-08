@@ -1,6 +1,5 @@
---upgrade pip3
 pandas
-sklearn
+scikit-learn
 matplotlib
 seaborn
 numpy
