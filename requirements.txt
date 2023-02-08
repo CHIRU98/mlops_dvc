@@ -1,3 +1,4 @@
+--upgrade pip3
 pandas
 sklearn
 matplotlib
